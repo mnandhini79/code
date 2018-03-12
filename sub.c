@@ -5,10 +5,10 @@ void main()
     scanf("%d%d",&m,&n);
     if((m-n)%2==0)
     {
-        printf("yes");
+        printf("even");
     }
     else
     {
-        printf("no");
+        printf("odd");
     }
 }
